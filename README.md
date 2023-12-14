@@ -15,7 +15,7 @@ Alemão: aäbcdefghijklmnoöpqrsßtuüvwxyz | Francês: abcdefghijklmnopqrstuvwx
 (b) Quais as letras presentes em um alfabeto e não no outro? <br>
 ä, ö, ü, ß presentes no alemão, mas ausentes no francês. <br>
 (c) Quais são as letras mais frequentes em cada uma dessas línguas? <br>
-![Ocorrência de letras no arquivo Kommunistischen]([URL_da_Imagem](https://github.com/gwedosun/corpora-analysis/blob/main/Captura%20de%20tela%202023-12-13%20222121.png))<br>
+![Ocorrência de letras no arquivo Kommunistischen]([URL_da_Imagem](https://github.com/gwedosun/corpora-analysis/blob/main/Captura%20de%20tela%202023-12-13%20222121.png)<br>
 ![Ocorrência de letras no arquivo NotreDame](https://github.com/gwedosun/corpora-analysis/blob/main/Capturar.PNG)
 <br>
 (d) Quais as letras menos frequentes? Se houve hápax legômena, o que eles significam nesses contextos dos alfabetos? <br>
